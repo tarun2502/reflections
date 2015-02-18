@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	To add the metadata to git . To let know git that it has to track these files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Working directory files are not tracked by git. But once files are added to staging area, they are tracked by git. It helps git to find out 
+	which files belong to the repository.
